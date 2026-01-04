@@ -21,29 +21,30 @@ Not many at the moment, but there will be soon!
 ---
 #### Types of values:
 - An integer is abbreviated as `int`. It is simply an integer.
+- A decimal number is called a `float`. It is like an integer, but with or without a digit after the decimal point.
 - A character string, called `string`, is abbreviated as `str`. You can put whatever you want in it, between `" "` or `' '`.
 - A Boolean is either true or false. True or False. It is abbreviated as `bool`.
 - _Nothing_ is nothing. It has nothing special about it, it's just _nothing_. To my knowledge, it doesn't even have a name. Its value is `None`.
 ---
-#### Calculs et concaténation :
-- D'abord, qu'est ce qu'une concaténation ? Une concaténation, c'est quand on regroupe 2 strings. C'est utile si on veut écrire plusieurs variables de type str sur la même ligne, par exemple. Le calcul, ça sert à rien d'expliquer, du moins je l'espère.
-- Dans ce langage, les calculs sont effectués dans l'ordre de priorité des opérations, pas de gauche à droite. Donc `2+3*2` donnera `8` et non `10`.
-- Pour concaténer, il suffit d'écrire `str1 + str2`. On peut en concaténer plus de 2 en même temps.
+#### Calculations and concatenation:
+- First, what is concatenation? Concatenation is when you combine two strings. It is useful if you want to write several variables of type str on the same line, for example. There's no need to explain calculations, at least I hope so.
+- In this language, calculations are performed in order of operation priority, not from left to right. So `2+3*2` will give `8` and not `10`.
+- To concatenate, simply write `str1 + str2`. You can concatenate more than two at a time.
 ---
-#### Écrire quelque chose à l'écran :
-- Comme je l'ai dit, c'est pour afficher du texte à l'écran. C'est l'équivalent de `print()` en Python, ou de `console.log()` en JavaScript.
-- Écrivez simplement `say`, suivi de ce que vous voulez écrire.
-- Exemples :
-   <br>`say y + z` => Affichera `Hello World!Salut le monde !`
-   <br>`say 31 + x * 2` => Affichera `51` (31 + 10 * 2 = 31 + 20 = 51)
-   <br>`say "1. " + y` => Affichera `1. Hello World!`
+#### Writing something on the screen:
+- As I said, this is for displaying text on the screen. It is the equivalent of `print()` in Python, or `console.log()` in JavaScript.
+- Just write `say`, followed by what you want to write.
+- Examples:
+  <br>`say y + z` => Will display `Hello World! Hello World!`
+  <br>`say 31 + x * 2` => Will display `51` (31 + 10 * 2 = 31 + 20 = 51)
+  <br>`say "1. " + y` => Will display `1. Hello World!`
 ---
-#### Comparaisons :
-- Comme l'indique leur nom, ça sert à comparer, je ne pense pas avoir besoin d'expliquer ça.
-- Les comparaisons possibles :
-  - `=` : est égal à
-  - `<` : plus petit que
-  - `>` : plus grand que
+#### Comparisons:
+- As their name suggests, they are used to compare things. I don't think I need to explain that.
+- Possible comparisons:
+    - `=`: is equal to
+    - `<`: smaller than
+    - `>`: greater than
 ---
 #### Conditions :
 - Comme son nom l’indique, c’est pour faire quelque chose **si** une condition est vraie.
