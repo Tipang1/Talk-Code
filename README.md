@@ -1,5 +1,6 @@
 # Talk-Code
 ## Code by talking
+Talk-Code is a Python-based language designed to be readable like natural speech.
 This programming language is designed for those who don't want to learn something complicated, or want to start with something simple. To code, just write as if you were talking!
 ## How to use it
 Write your code in a document, regardless of its extension. It can be a text file (\*.txt), Python (\*.py), C# (*.cs), or even something that doesn't exist!
