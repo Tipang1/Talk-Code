@@ -55,7 +55,7 @@ Peu nombreuses actuellement, elles vont vite le devenir !
 - Si la condition est fausse, ce qui est dans les accolades n’est tout simplement pas exécuté.
 
 - Exemples :
-   <br>`if x == 10 { say "x vaut 10" }`                   => Affichera "x vaut 10"
+   <br>`if x = 10 { say "x vaut 10" }`                    => Affichera "x vaut 10"
    <br>`if y != "Bonjour" { say "Ce n'est pas Bonjour" }` => SyntaxError → `!=` n'existe pas encore
    <br>`if x > 5 { say x }`                               => Affichera '10'
 
