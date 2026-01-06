@@ -42,6 +42,13 @@ Peu nombreuses actuellement, elles vont vite le devenir !
    <br>`say 31 + x * 2` => Affichera `51` (31 + 10 * 2 = 31 + 20 = 51)
    <br>`say "1. " + y` => Affichera `1. Hello World!`
 ---
+#### Demander à l'utilisateur
+- Pour demander à l'utilisateur, on utilise `ask`. Le résultat sera sous forme de string.
+- Écrire `ask` suivi du message à utiliser pour la requête.
+- Exemples :
+  <br>`name is ask "Quel est ton nom ?"` => Demandera "Quel est ton nom ? " et enregistrera le résultat dans la variable "name"
+  <br>`say "Salut, joueur à" + ask "Combien d'elo as tu sur chess.com ?" + "elo sur chess.com"` => Demandera "Combien d'elo as tu sur chess.com ? " et affichera "Salut, joueur à {résultat} elo sur chess.com"
+---
 #### Comparaisons :
 - Comme l'indique leur nom, ça sert à comparer, je ne pense pas avoir besoin d'expliquer ça.
 - Les comparaisons possibles :
