@@ -1,6 +1,7 @@
 # Talk-Code
 ## Codez en parlant
-Ce langage de programmation est prévu pour ceux qui ne veulent pas apprendre quelque chose de compliqué, ou veulent commencer par quelque chose de simplement simple. Pour coder, il vous suffit d'écrire comme si vous parliez !
+Talk-Code est un langage basé sur Python, conçu pour être lisible comme le langage naturel.
+Ce langage de programmation est prévu pour ceux qui ne veulent pas apprendre quelque chose de compliqué, ou veulent commencer par quelque chose de simple. Pour coder, il vous suffit d'écrire comme si vous parliez !
 
 ## Comment utiliser
 Écrivez votre code dans un document, quelque soit son extension. Ça peut être un fichier texte (\*.txt), Python (\*.py), C# (*.cs), ou même quelque chose d'inexistant !
