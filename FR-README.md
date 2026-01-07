@@ -20,7 +20,7 @@ Peu nombreuses actuellement, elles vont vite le devenir !
    <br>`x is 10`                      => Vaut 10
    <br>`y is "Hello World!"`          => Vaut "Hello World!"
    <br>`z is 'Salut ' + "le monde !"` => Vaut "Salut le monde !"
-- Une variable peut être plusieurs choses : un nombre entier (int) ou décimal (float), une chaîne de caractères (string → str), un booléen (True/False), ou rien (None).
+- Une variable peut être plusieurs choses : un nombre entier ou décimal, une chaîne de caractères, un booléen (True/False), ou rien (None).
 ---
 #### Types de valeurs :
 - Le nombre entier est raccourci en `int`. C'est juste un nombre entier.
